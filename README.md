@@ -6,7 +6,7 @@ Paleotype is a browser-based tool designed for the manual transcription of histo
 
 ## Access
 You can access the application at: 
-`https://foxvoss.github.io/paleotype/index.html`
+`https://foxvoss.github.io/Paleotype/index.html`
 
 ## Local Usage (Offline)
 Paleotype is designed to be fully portable. You do not need to use the GitHub link to run the application:
