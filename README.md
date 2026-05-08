@@ -50,7 +50,7 @@ A collapsible middle panel can be opened between the document viewer and the tra
 
 ## Instructions for Use
 
-1. **Load Document:** Tap *Laden* to select an image or PDF from your device.
+1. **Load Document:** Tap *Load* to select an image or PDF from your device.
 2. **Adjust View:** Use the filter panel (💧, top-right of viewer) to adjust brightness, contrast, rotation, or enable negative mode.
 3. **Open Reference:** Tap the book icon (📖) to open the palaeographic reference panel between the viewer and the editor. Load your own reference images with the 🖼 button.
 4. **Transcribe:** Enter text in the editor pane at the bottom.
