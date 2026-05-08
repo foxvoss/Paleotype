@@ -11,7 +11,7 @@ You can access the application at:
 
 Paleotype is fully portable and can be run without an internet connection:
 
-1. **Download:** Save the `index.html` (or the self-contained `paleotype_embedded.html`) file to your local device.
+1. **Download:** Save the `index.html` (rename it to `paleotype.html`) file to your local device.
 2. **Run:** Open the file in any modern web browser.
 3. **Privacy:** All processing remains local. No data ever leaves your device.
 
@@ -30,9 +30,10 @@ Paleotype is fully portable and can be run without an internet connection:
 
 A collapsible middle panel can be opened between the document viewer and the transcription editor by clicking the book icon (📖) in the toolbar. This panel is intended as a palaeographic reference while transcribing.
 
-- **Built-in references:** The Bogtman letter guide (A–M and N–Z) is included by default, based on *W. Bogtman — FAQ Genealogie BeNeLux*.
+- **Built-in references:** The Bogtman letter guide (A–M and N–Z) is included by default, based on *W. Bogtman — FAQ Genealogie BeNeLux*. https://www.geneaknowhow.net/faq/onderzoek/paleo-am-bogtman.htm and https://www.geneaknowhow.net/faq/onderzoek/paleo-nz-bogtman.htm
+  
 - **Custom images:** Additional reference images (e.g. alphabet charts, sample hands) can be loaded from your device using the 🖼 button. Multiple files can be selected at once; they are added to the dropdown list by filename.
-- **Removing images:** User-added images can be removed from the list with the ✕ button. The built-in Bogtman references cannot be removed.
+- **Removing images:** User-added images can be removed from the list with the red ❌ button. The built-in Bogtman references cannot be removed.
 - **Pan and zoom:** The reference image supports drag-to-pan (one finger or mouse) and pinch-to-zoom (two fingers) or scroll-wheel zoom, identical to the main viewer. The − and + buttons also adjust zoom. The panel height is fixed so it does not push the other panels out of view.
 - **Persistent visibility:** The reference panel stays visible while typing; it does not auto-hide when the editor receives focus.
 
